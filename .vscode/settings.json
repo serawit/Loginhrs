@@ -1,0 +1,21 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "SgHekwTCNC5rXP7ZqyIaV",
+            "name": "obhrs",
+            "driver": "mongodb",
+            "connectionType": "host",
+            "driverOptions": {
+                "protocol": "mongodb://"
+            },
+            "host": "localhost",
+            "port": 27017,
+            "ssl": false,
+            "savePassword": "secretStorage",
+            "readOnly": false,
+            "role": "development",
+            "connectionTimeout": 30
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}

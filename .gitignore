@@ -1,0 +1,26 @@
+../.env
+../AppData/
+../Downloads/
+../Desktop/
+../Documents/
+../*.log
+../*.tmp
+../*.rar
+../*.zip
+../NTUSER.*
+../battery-report.html
+../Videos/
+../Music/
+../Pictures/
+../Saved Games/
+../Tracing/
+../OneDrive/
+../WPS Cloud Files/
+../PycharmProjects/
+../AndroidStudioProjects/
+
+../.env
+../AppData/
+../Downloads/
+../Desktop/
+../.vscode/
