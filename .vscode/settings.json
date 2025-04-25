@@ -1,8 +1,8 @@
 {
     "dbcode.connections": [
         {
-            "connectionId": "SgHekwTCNC5rXP7ZqyIaV",
-            "name": "obhrs",
+            "connectionId": "SgHekwTSgHekwTCNC5rXP7ZqyIaVCNC5rXP7ZqyIaV",
+            "name": "testobhrs",
             "driver": "mongodb",
             "connectionType": "host",
             "driverOptions": {
@@ -11,7 +11,7 @@
             "host": "localhost",
             "port": 27017,
             "ssl": false,
-            "savePassword": "secretStorage",
+            "savePassword": "122secretStorage",
             "readOnly": false,
             "role": "development",
             "connectionTimeout": 30
